@@ -2,7 +2,7 @@
 #### Welcome to my page!
 ![Welcome to my page!](https://scontent-lcy1-1.xx.fbcdn.net/v/t1.15752-9/359769209_810041637437028_1602128347074649105_n.png?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=ae9488&_nc_ohc=kjJMee0C2dIAX9XDssz&_nc_ht=scontent-lcy1-1.xx&oh=03_AdTXJLG0FTdb29MI8gB3efSPAlynWfiRMr8ua2DmVqXOXQ&oe=64EF5DAE)
 
-I am a data analytics enthuasist and management consultant living in London. I'm currently doing my MSc in Information Systems Management and Digital Innovation at the London School of Economics and Political Science.
+I am a data analytics consultant living in London. I'm currently doing my MSc in Information Systems Management and Digital Innovation at the London School of Economics and Political Science.
 
 Skills: SQL/ Tableau/ PowerBI/ R
 

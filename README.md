@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Quyen
 #### Welcome to my page!
-![Welcome to my page!](https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif)
+![Welcome to my page!](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 
 I am a data analytics enthuasist and management consultant living in London. I'm currently doing my MSc in Information Systems Management and Digital Innovation at the London School of Economics and Political Science.
 

@@ -9,7 +9,6 @@ Skills: SQL/ Tableau/ PowerBI/ R
 - 🔭 I’m currently working on various data analytics and visualization projects 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: tatuquyen@gmail.com 
-- 😄 Pronouns: she/her 
 - ⚡ Fun fact: I started a food blog when I moved to London 
 
 

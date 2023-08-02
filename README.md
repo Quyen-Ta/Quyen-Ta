@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Chloe
 #### Welcome to my page!
 
-<img width="774" alt="aboutme2" src="https://github.com/Quyen-Ta/Quyen-Ta/assets/128329914/8e1b615d-1381-4ff5-95e3-66869ed4edf0">
+<img width="769" alt="image" src="https://github.com/Quyen-Ta/Quyen-Ta/assets/128329914/4674ad86-60b9-4057-b492-1191e5d9c5a7">
+
 
 
 I am a consultant who is passionate about data analytics and visualizations.

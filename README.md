@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Chloe
+### Hi there 👋
 #### Welcome to my page!
 
 <img width="769" alt="image" src="https://github.com/Quyen-Ta/Quyen-Ta/assets/128329914/4674ad86-60b9-4057-b492-1191e5d9c5a7">
